@@ -1,0 +1,78 @@
+[gd_scene load_steps=2 format=3 uid="uid://dptdgks0hkqpo"]
+
+[ext_resource type="PackedScene" uid="uid://bgc7bfs3whjaw" path="res://slot_container.tscn" id="3_f5ofn"]
+
+[node name="Inventory" type="PanelContainer"]
+offset_right = 622.0
+offset_bottom = 429.0
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 2
+theme_override_constants/margin_left = 11
+theme_override_constants/margin_top = 11
+theme_override_constants/margin_right = 11
+theme_override_constants/margin_bottom = 11
+
+[node name="GridContainer" type="GridContainer" parent="MarginContainer"]
+layout_mode = 2
+columns = 5
+
+[node name="SlotContainer" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer2" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer3" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer4" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer5" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer6" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer7" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer8" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer9" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer10" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer11" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer12" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer13" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer14" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer15" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer16" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer17" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer18" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer19" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
+
+[node name="SlotContainer20" parent="MarginContainer/GridContainer" instance=ExtResource("3_f5ofn")]
+layout_mode = 2
