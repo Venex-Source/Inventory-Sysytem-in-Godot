@@ -16,6 +16,6 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## ⭐Related Tutorials
-- Build Your First Mobile 2D Game: [Watch Now](https://youtu.be/tO3kLfvN6s4?si=L7vo0y6alrTtE3cZ)
+## ⭐Recommended Tutorials
+- Tiny Garden Game: [Watch Now](https://youtu.be/nYN4L8afRfQ?si=ZLbUUn6VcG62t-oL)
 - User Interface tutorial for begineers: [Watch Now](https://youtu.be/pIwHjnONS9A?si=qsRaymWJAkAE5SVz)
