@@ -4,7 +4,7 @@
 This repository contains the code for a tutorial on how to create an inventory system with drag & drop functionality for a Godot game. If you followed along with the tutorial video, you'll find all the necessary files and scripts here to implement an Inventory System in your own project.
 
 ## Tutorial Video
-⏭ Check out the full tutorial on YouTube: [Watch Now]()
+⏭ Check out the full tutorial on YouTube: [Watch Now](https://youtu.be/rQkswXvVIGw)
 
 ## Features
 - Drag and Drop: Easily move items within the inventory.
